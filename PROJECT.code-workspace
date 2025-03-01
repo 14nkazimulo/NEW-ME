@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/bluebook-for-bulldozers"
+		},
+		{
+			"path": "../../Downloads/New folder"
+		},
+		{
+			"name": "NEW-ME",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
